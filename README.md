@@ -41,3 +41,5 @@ PSA:  DON'T DEPLOY ON SUNDAY.
 - CSS + HTML + Jsvascript \m/
 - The Google and it's capacity to develop our Googliness.
 - BH brain capacity, time management, and a shton of GIFD.
+
+#### Happily Build by AshR 👾 🚀  ᕦ(ò_óˇ)ᕤ HxCx 👾 🚀
