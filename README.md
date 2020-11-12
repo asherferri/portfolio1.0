@@ -16,7 +16,7 @@ Just a simple portfolio site; as advised by colleages, to have direct online pre
 - Recruiter confirms i'm hooman.
 - Recruiter check's what i've used my neurons on.
 - Recruiter gets confuzzled about wht's beyond the code.
-- Recruiter contacts with an opportunity in offer, or just curiosity, friendships are always welcome!
+- Recruiter contacts with an opportunity offer, or just curiosity, friendships are always welcome!
 
 ### Technologies
 
@@ -41,5 +41,7 @@ PSA:  DON'T DEPLOY ON SUNDAY.
 - CSS + HTML + Jsvascript \m/
 - The Google and it's capacity to develop our Googliness.
 - BH brain capacity, time management, and a shton of GIFD.
+
+https://asherferri.github.io/portfolio1.0/
 
 #### Happily Build by AshR 👾 🚀  ᕦ(ò_óˇ)ᕤ HxCx 👾 🚀
