@@ -1,4 +1,4 @@
-console.log("it works")
+console.log("RocK On \\m/ 👾 🚀  ᕦ(ò_óˇ)ᕤ HxCx 👾 🚀")
 
 let theme = localStorage.getItem('theme')
 if (theme == null){
@@ -20,11 +20,14 @@ for ( let i = 0; themeDots.length > i; i++) {
 }
 
 function setTheme (mode) {
-    if(mode == 'light') {
+    if(mode == 'dark') {
         document.getElementById('theme-style').href = './styles/style.css'
     }
     if(mode == 'blue') {
         document.getElementById('theme-style').href = './styles/blue.css'
+    }
+    if(mode == 'light') {
+        document.getElementById('theme-style').href = './styles/light.css'
     }
     if(mode == 'green') {
         document.getElementById('theme-style').href = './styles/green.css'

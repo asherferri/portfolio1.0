@@ -1,24 +1,25 @@
 :root {
-    --mainColor: #eaeaea;
-    --secondaryColor: #fff;
-
-    --borderColor: #c1c1c1;
-
-    --mainText: black;
-    --secondaryText: #4b5156;
-
-    --themeDotBorder: #24292e;
-
-    --previewBg: rgba(251, 249, 243, 0.8);
-
-    --previewShadow: #f0ead6;
-
-    --buttonColor: black;
+    --mainColor: #25292e;
+    --secondaryColor: #32363e;
+    
+    --borderColor: #000000;
+    
+    --mainText: #fff;
+    --secondaryText: #eeeeee;
+    
+    --themeDotBorder: #fff;
+    
+    --previewBg: rgba(34, 36, 37, 0.8);
+    
+    --previewShadow: #1c2025;
+    
+    --buttonColor: #4a4c50;
 }
 
-html, body {
+html, body, .s2 {
     padding: 0;
     margin: 0;
+    background-color: var(--mainColor);
 }
 
 body *{
@@ -161,7 +162,8 @@ h6 { font-size: 16px;}
     height: 200px;
     width: 200px;
     object-fit: cover;
-    border: 2px solid var(--borderColor);
+    border: 5px solid var(--borderColor);
+    border-radius: 10%;
 
 }
 
@@ -230,7 +232,7 @@ h6 { font-size: 16px;}
 
 #preview {
     width: 300px;
-    border: 1.5px solid #17a2b8;
+    border: 1.5px solid #20e1ff;
     background-color:  var(--previewBg);
     padding: 15px;
     position: relative;
@@ -360,6 +362,13 @@ h6 { font-size: 16px;}
     color: #fff;
     background-color: var(--buttonColor);
     border: none;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: var(--mainColor);
+    font-size: 10px;
 }
 
 @media screen and (max-width: 1200px) {
